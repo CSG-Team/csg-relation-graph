@@ -1,3 +1,4 @@
-# react-g6
+# Introduce
 
-对G6的react封装
+This is A React Component for Rendering A Relation Graph.
+
