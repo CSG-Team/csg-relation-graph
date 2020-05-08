@@ -2,7 +2,7 @@ import G6 from '@antv/g6';
 import { GraphOptions } from '@antv/g6/lib/interface/graph';
 
 
-import BaseGraph from '../../BaseGraph';
+import BaseGraph from '../../graph/base-graph';
 
 class G6GraphImpl extends BaseGraph {
   protected initGraph(){

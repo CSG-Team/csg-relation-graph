@@ -1,4 +1,4 @@
-import BaseGraph from '../../BaseGraph';
+import BaseGraph from '../../graph/base-graph';
 
 /**
  * TODO: D3 的实现

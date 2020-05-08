@@ -1,5 +1,5 @@
-import G6GraphImpl from './G6Impl/G6GraphImpl';
-import D3GraphImpl from './D3Impl/D3GraphImpl';
+import G6GraphImpl from '../graph-impl/g6/graph-g6';
+import D3GraphImpl from '../graph-impl/d3/graph-d3';
 
 
 export enum GraphImplTypes {

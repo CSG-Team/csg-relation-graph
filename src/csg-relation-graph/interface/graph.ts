@@ -29,7 +29,7 @@ export interface IGraph {
   updateData:(data?:IData) => void;
 
   /** 更新配置的方法 */
-  updateCfg(cfg?: object) : void;
+  updateCfg: (cfg?: object) => void;
 
 };
 

@@ -1,4 +1,4 @@
-import { IGraph, IData } from './definitions';
+import { IGraph, IData } from '../interface/graph';
 
 /**
  * Graph的基类, 定义了基本的数据以及初始化等流程
